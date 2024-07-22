@@ -1,0 +1,14 @@
+.board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .layer {
+    margin-bottom: 10px;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
